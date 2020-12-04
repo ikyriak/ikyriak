@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ikyriak/ikyriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Ioannis Kyriakidis, a software engineer from Greece**
 
-Here are some ideas to get you started:
+### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **[Kaizen Gaming (Stoiximan/Betano)](https://kaizengaming.com/)**
+- 🎓 **PhD** in Artificial and Computational Intelligence and Computational optimization [@University of South Wales](https://www.southwales.ac.uk/)
+- 🌍 I'm mostly active within the **.NET Community**
+- 🌐 Sharing my .NET experiences at **[.NET Nakama](https://www.dotnetnakama.com/)**
+- 🌱 Learning all about **Software Development **
+- ⚡️ Fun fact: I'm a fan of **Deep Purple**
+
+### 📬 Get in Touch
+
+- LinkedIn: [ioannis-kyriakidis](https://www.linkedin.com/in/ioannis-kyriakidis/)
+- Site: https://www.dotnetnakama.com/contact/
+- E-mail: info@ikyriakidis.com
