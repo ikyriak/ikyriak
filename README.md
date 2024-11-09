@@ -14,5 +14,5 @@
 ### 📬 Get in Touch
 
 - LinkedIn: [ioannis-kyriakidis](https://www.linkedin.com/in/ioannis-kyriakidis/)
-- Site: https://www.dotnetnakama.com/contact/
+- Site: https://www.dotnetnakama.com/about/
 - E-mail: info@ikyriakidis.com
